@@ -23,4 +23,4 @@ The dataset contains 2,343,746 rows that correspond to rides.  One of the column
 * It is necessary to get more data to understand how many unique subscribers rode in August and be able to calculate the accrued revenue for those.
 
 
-<img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/Revenue.png" width = "1400" height= "500" />
+<img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/Revenue.png" width = "700" height= "200" />

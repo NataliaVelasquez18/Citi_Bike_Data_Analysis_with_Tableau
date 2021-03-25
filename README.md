@@ -38,3 +38,22 @@ The dataset contains 2,343,746 rows that correspond to rides.  One of the column
 
 
 <img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/Cost_of_maintainance.png" width = "700" height= "500" />
+
+### Demographics 
+
+* Female represent 28% and male 72% of total rides
+* When we analyze customers vs subscribers by gender, we can see that the two genders follow the same pattern.
+* The vast majority of rides showed riders between 25 and 30 years old.
+
+img
+
+### Bike usage by weekday, gender, and hour
+
+
+
+
+<img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/Daysofweekbyusertypeandgender.png" width = "700" height= "500" />
+
+<img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/daysofweekbygenderandhour.png" width = "700" height= "500" />
+
+

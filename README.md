@@ -49,11 +49,16 @@ img
 
 ### Bike usage by weekday, gender, and hour
 
-
+* As we can see 8 am, 5 pm, and 6 pm are the times of higher demand for both genders
+* Thursday is the day with the most subscriber rides for male and female
+* Saturday and Sunday are the best days for customer rides both male and female
+* Most trips are less than 30 minutes
 
 
 <img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/Daysofweekbyusertypeandgender.png" width = "700" height= "500" />
 
 <img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/daysofweekbygenderandhour.png" width = "700" height= "500" />
+
+<img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/Checkout_Times.png" width = "700" height= "500" />
 
 

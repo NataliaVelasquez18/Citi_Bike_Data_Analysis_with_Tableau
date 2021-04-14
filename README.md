@@ -66,7 +66,7 @@ The dataset contains 2,343,746 rows that correspond to rides.  One of the column
 * When we analyze customers vs subscribers by gender, we can see that the two genders follow the same pattern.
 * The vast majority of rides showed riders between 25 and 30 years old.
 
-img
+
 
 ### Bike usage by weekday, gender, and hour
 

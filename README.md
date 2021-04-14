@@ -67,6 +67,8 @@ The dataset contains 2,343,746 rows that correspond to rides.  One of the column
 * The vast majority of rides showed riders between 25 and 30 years old.
 
 
+<img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/Demographics.png" width = "700" height= "500" />
+
 
 ### Bike usage by weekday, gender, and hour
 

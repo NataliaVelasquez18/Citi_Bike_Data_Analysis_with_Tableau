@@ -1,9 +1,12 @@
 # CitiBike: Descriptive Analytics for Venture Analysis
 
+---
 
 ## Business Problem
 
 A group of investors in the US are wondering whether or not to invest in a business with the same model as CitiBike. They want to gain some insights regarding volume of rides, demographics, peak days and hours, subscribers vs customers, among others.  The data available to the public is very large and the investors would like to have some visuals and a summary of insights.
+
+---
 
 ## Purpose
 

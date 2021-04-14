@@ -1,6 +1,13 @@
-# CitiBike Venture Analysis
+# CitiBike: Descriptive Analytics for Venture Analysis
 
-The purpose of this analysis is to gain insights from the CitiBike business in order to have an understanding of whether or not it is an attractive business to invest.
+
+## Business Problem
+
+A group of investors in the US are wondering whether or not to invest in a business with the same model as CitiBike. They want to gain some insights regarding volume of rides, demographics, peak days and hours, subscribers vs customers, among others.  The data available to the public is very large and the investors would like to have some visuals and a summary of insights.
+
+## Purpose
+
+The purpose of this analysis is to help potential investors to gain some insights and learn from the CitiBike business.
 
 ---
 
@@ -23,7 +30,7 @@ The dataset contains 2,343,746 rows that correspond to rides.  One of the column
 * Thursday is the day with the higherst demand by subscribers
 * Saturday and Sunday are the best days for ocassional customers
 * Most rides are in between 0 and 30 minutes and took place in Manhathan
-* 8 am, 5 pm, and 6 pm are the busiest hours
+* 8 am, 5 pm, and 6 pm are the busiest hours for week days
 * More data is required to calculate revenue and operational cost
 
 
@@ -48,7 +55,7 @@ The dataset contains 2,343,746 rows that correspond to rides.  One of the column
 * As we can see, the majority of the rides occurred in Manhathan.  Also, the vast majority of rides were short, in between 0-30 minutes.
 * There are a total of 13,983 bikes that were used in the month of August.
 * The cost of mainteinance of a bike goes from $58 to $140.  We calculating the cost using $120 as an estimate for mainteinance per bike.
-* We recommend obtaining more data that help us understand how ofter are bikes taken for maintainance.  Some bikes might not be used very much and might not require maintainance as ofter as others.
+* We recommend obtaining more data that help us understand how ofter bikes are taken for maintainance.  Some bikes might not be used very much and might not require maintainance as ofter as others.
 
 
 <img src="https://github.com/NataliaVelasquez18/Citi_Bike_Data_Analysis_with_Tableau/blob/main/Resources/Cost_of_maintainance.png" width = "700" height= "500" />

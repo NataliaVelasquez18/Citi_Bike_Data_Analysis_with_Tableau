@@ -10,7 +10,7 @@ A group of investors in the US are wondering whether or not to invest in a busin
 
 ## Purpose
 
-The purpose of this analysis is to help potential investors to gain some insights and learn from the CitiBike business.
+The purpose of this analysis is to help potential investors in the Bikeshare business to gain insights from CitiBike NYC data, the target market, and the demographics of consumers to build the business plan.
 
 ---
 
